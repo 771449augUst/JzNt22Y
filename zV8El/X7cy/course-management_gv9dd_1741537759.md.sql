@@ -26,7 +26,6 @@ VALUES
 ;
 
 INSERT INTO PatientsAttendAppointments(patient,appt,concerns,symptoms)
-VALUES
 ('ramesh@gmail.com',1, 'none', 'itchy throat'),
 ('suresh@gmail.com',2, 'infection', 'fever'),
 ('rakesh@gmail.com',3, 'nausea', 'fever')
