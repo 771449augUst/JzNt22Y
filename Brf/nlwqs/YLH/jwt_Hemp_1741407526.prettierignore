@@ -23,7 +23,6 @@ docs/pages/reference
 static
 docs/manifest.mjs
 
-# --------------- Packages ---------------
 
 coverage
 dist
