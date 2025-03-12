@@ -59,7 +59,6 @@ INSERT INTO DocsHaveSchedules(sched,doctor)
 VALUES
 (001,'hathalye7@gmail.com'),
 (002,'hathalye8@gmail.com')
-;
 
 INSERT INTO DoctorViewsHistory(history,doctor)
 VALUES
