@@ -23,7 +23,6 @@ Each Party in the SEM Ecosystem provides and consumes APIs according to their ro
 
 | API | Current version | Service Provider | Services Consuming | Remarks |
 |---|---|---|---|---|
-| [Events](https://stichtingsem.stoplight.io/docs/ecosystem/reference/events.v1.yaml) | 1.3.0 | all | all | All parties can send or recieve events |
 | [Consent](https://stichtingsem.stoplight.io/docs/ecosystem/reference/consent.v1.yaml) | 1.3.0 | SIS, LA, MP | SIS: MP, LA, LMS<br>LA: LMS, SIS<br>MP: LMS | |
 | [SIS](https://stichtingsem.stoplight.io/docs/ecosystem/reference/sisdata.v1.yaml) | 1.3.0 | SIS | MP, LA, LMS | |
 | [Catalogue](https://stichtingsem.stoplight.io/docs/ecosystem/reference/catalogue.v1.yaml) | 1.3.0 | LA | MP, LMS | |
