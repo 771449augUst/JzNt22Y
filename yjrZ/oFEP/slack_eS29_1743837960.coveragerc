@@ -7,6 +7,5 @@ exclude_lines =
     def create_argument_parser
     if typing.TYPE_CHECKING
     # Ellipsis are used as placeholders in python 3 that will be overridden
-    \.\.\.
 [run]
 source = rasa
