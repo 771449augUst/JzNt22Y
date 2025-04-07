@@ -181,7 +181,6 @@ serialization
 singular_table_names
 static_cache
 static_cache_cache
-subclasses
 subset_static_cache
 validation_helpers
 END
